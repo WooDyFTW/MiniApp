@@ -1,7 +1,5 @@
 {
-  "devDependencies": {
-    "scripts": {
-      "release": "semantic-release"
-    }
-}
+  "scripts": {
+    "release": "semantic-release"
+  }
 }
